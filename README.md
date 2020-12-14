@@ -13,8 +13,8 @@
 - [X] 12. ДЗ:что - то интересное с харой!  (12. haara)
 
 для задачи 12 надо: 
-      - pip install opencv
-      - pythonpip install dlib
+- pip install opencv
+- pip install dlib
       
       -- /usr/local/lib/python3.7/site-packages/cv2  <- будет установлено 
       но у меня не получилось через пип, поэтому я через конду всё это ставила, если делать статическую картинку, 
